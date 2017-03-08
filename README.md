@@ -35,7 +35,7 @@ Example API Query:
 ## With Docker
 
 - `docker build -t koop-provider-craigslist .`
-- `docker run -it -p 8080:8080 koop-provider-craigslist`
+- `docker run -it -p 80:80 koop-provider-craigslist`
 
 ### In an existing Koop Server
 ```js
